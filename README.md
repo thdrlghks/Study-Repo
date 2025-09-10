@@ -1,7 +1,7 @@
 # Study-Repo
 My study records
 
-###For now..
+### For now..
  - react
  - unity C#
  - c++ for coding test
